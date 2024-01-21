@@ -59,5 +59,4 @@ const main = () => {
 
     console.log("Goodbye :)");
 }
-
 main();
